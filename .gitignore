@@ -1,2 +1,4 @@
 *.out
+# voy a trackear b.out
+!b.out
 results/
